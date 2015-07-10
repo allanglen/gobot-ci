@@ -1,4 +1,4 @@
 # gobot-ci
 Gophercon gobot hacking
 
-https://travis-ci.org/allanglen/gobot-ci.svg?branch=master
+[![Build Status](https://travis-ci.org/allanglen/gobot-ci.svg?branch=master)](https://travis-ci.org/allanglen/gobot-ci)
