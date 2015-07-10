@@ -4,7 +4,7 @@ go:
   - 1.4
 
 install:
-  - go get github.com/hybridgroup/gobot"
+  - go get github.com/hybridgroup/gobot
   - go get github.com/hybridgroup/gobot/platforms/i2c
   - go get github.com/hybridgroup/gobot/platforms/intel-iot/edison
 
